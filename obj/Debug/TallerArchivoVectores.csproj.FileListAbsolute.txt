@@ -1,0 +1,13 @@
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\bin\Debug\TallerArchivoVectores.exe.config
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\bin\Debug\TallerArchivoVectores.exe
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\bin\Debug\TallerArchivoVectores.pdb
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.csprojAssemblyReference.cache
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.LoginForm.resources
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.Properties.Resources.resources
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.csproj.GenerateResource.cache
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.exe
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.pdb
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.MainWindowsForm.resources
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.ContainerForm.resources
+C:\Users\Brayan Lopez\source\repos\TallerArchivoVectores\obj\Debug\TallerArchivoVectores.EstudiantesForm.resources
